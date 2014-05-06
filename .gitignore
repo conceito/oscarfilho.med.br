@@ -1,8 +1,8 @@
 # Ignore everything in the root except the "wp-content" directory.
 .*
 /*.php
-*.txt
-*.html
+/*.txt
+/*.html
 wp-admin/
 wp-includes/
 wp-production/
